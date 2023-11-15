@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A BCA student learning web design...</h3>
+<img align="right" alt="Coding" src="https://images.app.goo.gl/3pLunPD72cHXfPtR8">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hari&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hari" /> </p>
 
