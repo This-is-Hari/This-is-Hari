@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hari</h1>
 <h3 align="center">A BCA student learning web design...</h3>
-<img align="right" alt="Coding" src="https://images.app.goo.gl/3pLunPD72cHXfPtR8">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT19WFanmRtKhXJmG-tuM1U5c7CCoP0GjWjrg&usqp=CAU">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hari&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hari" /> </p>
 
