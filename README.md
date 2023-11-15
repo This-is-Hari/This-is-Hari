@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C#, HTML, Python, MySQL**
 
-- ⚡ Fun fact **Introvert...!**
+- ⚡ Fun fact **I'm an Introvert...!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
