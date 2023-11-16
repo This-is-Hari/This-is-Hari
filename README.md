@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=this-is-hari&label=Profile%20views&color=0e75b6&style=flat" alt="this-is-hari" /> </p>
 
-<p align="left"> <a href="https://twitter.com/haribabusr" target="blank"><img src="https://img.shields.io/twitter/follow/haribabusr?logo=twitter&style=for-the-badge" alt="haribabusr" /></a> </p>
+<!p align="left"> <a href="https://twitter.com/haribabusr" target="blank"><img src="https://img.shields.io/twitter/follow/haribabusr?logo=twitter&style=for-the-badge" alt="haribabusr" /></a> <!/p>
 
 - 🌱 I’m currently learning **C#, HTML, Python, MySQL**
 
