@@ -12,7 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/haribabusr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haribabusr" height="30" width="40" /></a>
+<a href="https://x.com/itz__harizz"
+ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haribabusr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hari-babu-a29b27237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-babu-a29b27237" height="30" width="40" /></a>
 <a href="https://instagram.com/justt_hari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justt_hari" height="30" width="40" /></a>
 </p>
